@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="AndroidLikeButton">
+        <attr name="dot_color_1"       format="color"/>
+        <attr name="dot_color_2"       format="color"/>
+        <attr name="circle_startColor" format="color"/>
+        <attr name="circle_endColor"   format="color"/>
+        <attr name="like_icon"         format="reference"/>
+        <attr name="unlike_icon"       format="reference"/>
+        <attr name="liked"             format="boolean"/>
+        <attr name="dot_active"        format="boolean"/>
+        <attr name="circle_active"     format="boolean"/>
+    </declare-styleable>
+</resources>
