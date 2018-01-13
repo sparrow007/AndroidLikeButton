@@ -3,6 +3,7 @@
 
 [![Platform](https://img.shields.io/badge/platform-android-blue.svg)](http://developer.android.com/index.html)
 [![API](https://img.shields.io/badge/API-14%2B-blue.svg?style=flat)](https://android-arsenal.com/api?level=14)
+[![License](https://img.shields.io/badge/license-Apache%202-4EB1BA.svg?style=flat-square)](https://www.apache.org/licenses/LICENSE-2.0.html)
 
 This library let you create a button with animation like twitter' heart , facebook like button in a simplest way
 
@@ -151,7 +152,7 @@ Bitmap unlikeBitmap = androidLikeButton.getUnlikeBitmap();
  LICENCE
 -----
 
- Copyright 2017 Ankit kumar
+ Copyright 2018 Ankit kumar
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
