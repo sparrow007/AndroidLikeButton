@@ -15,7 +15,7 @@ Gradle
 ```
 dependencies {
     ...
-    compile 'com.jackandphantom.android:androidlikebutton:1.2.0'
+    implementation 'com.jackandphantom.android:androidlikebutton:1.2.0'
 }
 ```
 # Basic Usage
